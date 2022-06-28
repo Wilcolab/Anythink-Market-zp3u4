@@ -11,3 +11,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+1. Go to Docker offical website and intall docker according to your machine.
+2. If you are strugglig its okay GOOGLE IT :)
+3. Once the docker is install i had to install "WSL2 Linux kernel update package for x64 machines"
